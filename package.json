@@ -1,0 +1,19 @@
+{
+  "name": "travel-site-files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MilanPrpa/croatia-travel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MilanPrpa/croatia-travel/issues"
+  },
+  "homepage": "https://github.com/MilanPrpa/croatia-travel#readme"
+}
